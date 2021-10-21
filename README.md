@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjunnrana
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning fullstack web development with React, MongoDB, and Node.js.
+- 🌱 I’m currently learning web development with React, MongoDB, and Node.js.
 - 💞️ I’m looking to collaborate on web applications.
 - 📫 How to reach me- Email: rana.arjunnarayan@gmail.com
 
