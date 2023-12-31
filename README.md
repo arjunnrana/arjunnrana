@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Arjun N Rana<br>- 👀 I’m interested in web and mobile app development.<br>- <br>- 💞️ I’m looking to collaborate on web (React.js, Next.js) and mobile (Flutter, React Native) applications.<br>- 📫 How to reach me- Email: rana.arjunnarayan@gmail.com
+- 👋 Hi, I’m Arjun N Rana<br>- 👀 I’m interested in web and mobile app development.<br>- 🌱 I’m currently doing web app development with React, MongoDB, and Node.js and mobile app development with Flutter and React Native.<br>- 💞️ I’m looking to collaborate on web (React.js, Next.js) and mobile (Flutter, React Native) applications.<br>- 📫 How to reach me- Email: rana.arjunnarayan@gmail.com
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunnrana&theme=vue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arjunnrana&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arjunnrana&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
