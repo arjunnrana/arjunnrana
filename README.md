@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Arjun N Rana<br>- 👀 I’m interested in web and mobile app development.<br>- 🌱 I’m currently doing web app development with React, MongoDB, and Node.js and mobile app development with Flutter and React Native.<br>- 💞️ I’m looking to collaborate on web (React.js, Next.js) and mobile (Flutter, React Native) applications.<br>- 📫 How to reach me- Email: rana.arjunnarayan@gmail.com
+- 👋 Hi, I’m Arjun N Rana<br>- 👀 I’m interested in web and mobile app development.<br>- 🌱 I’m currently doing web app development with React.js and Next.js and mobile app development with Flutter.<br>- 💞️ I’m looking to collaborate on web (React.js, Next.js) and mobile (Flutter, React Native) applications.<br>- 📫 How to reach me- Email: rana.arjunnarayan@gmail.com
 
 
 ## 🌐 Socials:
